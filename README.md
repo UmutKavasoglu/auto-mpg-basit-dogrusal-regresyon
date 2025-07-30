@@ -1,4 +1,4 @@
-# Auto MPG Veri Seti ile Yakıt Verimliliği Tahmini
+# Auto MPG Veri Seti ile Basit Doğrusal Regresyon Analizi
 
 Bu proje, bir aracın **ağırlık (`weight`)** bilgisini kullanarak yakıt verimliliğini (**`mpg`**) tahmin eden bir basit doğrusal regresyon modeli geliştirmeyi amaçlamaktadır. Projenin temel hedefi, istatistiksel olarak geçerli, güvenilir ve pratik bir tahmin aracı oluşturmaktır.
 
